@@ -1,7 +1,7 @@
 export const CONFIG = {
     API: {
-        KEY: 'YOUR_API_KEY_FROM_GOOGLE_AI_STUDIO',
-        BASE_URL: 'wss://generativelanguage.googleapis.com/ws',
+        KEY: 'AIzaSyANm4T0elx67yXo-6mcbq3YevcLha-uZGY',
+        BASE_URL: 'wss://geminiwss.liuzeqi.us.kg/ws',
         VERSION: 'v1alpha',
         MODEL_NAME: 'models/gemini-2.0-flash-exp'
     },
